@@ -23,19 +23,10 @@
     "loader",
     "javascript-obfuscator"
   ],
-  "author": {
-    "name": "Valerio Bianchi",
-    "email": "contacts@valeriobianchi.com",
-    "url": "https://valeriobianchi.com"
-  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zakplus/obfuscator-loader/issues"
-  },
-  "homepage": "https://github.com/zakplus/obfuscator-loader#readme",
   "dependencies": {
     "esprima": "^4.0.0",
-    "javascript-obfuscator": "^0.24.0",
+    "javascript-obfuscator": "^1.6.0",
     "loader-utils": "^1.1.0"
   },
   "devDependencies": {
